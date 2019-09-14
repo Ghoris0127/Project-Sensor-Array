@@ -3,8 +3,34 @@
 @{
     ViewData["Title"] = "Home page";
 }
+<html>
+<head>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <h2>The time on the server is @DateTime.Now</h2>
+    </div>
+    <div class="onlineModulesList">
+        <h2>Current modules online</h2>
+        @foreach (String onlineModule in Model.modulesOnline)
+        {
+            <text>
+                @onlineModule
+            </text>
+            <br />
+        }
+    </div>
+    <div class="offlineModulesList">
+        <h2>Current modules offline</h2>
+        @foreach (String offlineModule in Model.moduelsOffline)
+        {
+            <text>
+                @offlineModule
+            </text>
+            <br />
+        }
+    </div>
+</body>
+</html>

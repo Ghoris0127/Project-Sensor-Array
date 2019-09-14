@@ -10,7 +10,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
-using WebApplication.Models;
 
 namespace WebApplication
 {
@@ -35,9 +34,6 @@ namespace WebApplication
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-
-            services.AddDbContext<WebApplicationPagesMovieContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("WebApplicationPagesMovieContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
