@@ -12,25 +12,24 @@
         <h1 class="display-4">Welcome</h1>
         <h2>The time on the server is @DateTime.Now</h2>
     </div>
-    <div class="onlineModulesList">
-        <h2>Current modules online</h2>
-        @foreach (String onlineModule in Model.modulesOnline)
+    <div class="ModuleTable" style="position:relative; top:100px;">
+        <table border="1">
+            <tr>
+                <th>Module ID</th>
+                <th>Description</th>
+                <th>Coordinates</th>
+                <th>Status</th>
+            </tr>
+        @foreach (Module module in Model.modules)
         {
-            <text>
-                @onlineModule
-            </text>
-            <br />
+        <tr>
+            <td>@module.getModuleID()</td>
+            <td>@module.getDescription()</td>
+            <td>@module.getCoordinates(0) @module.getCoordinates(1) @module.getCoordinates(2)</td>
+            <td>@module.getOnlineStatus()</td>
+        </tr>
         }
-    </div>
-    <div class="offlineModulesList">
-        <h2>Current modules offline</h2>
-        @foreach (String offlineModule in Model.moduelsOffline)
-        {
-            <text>
-                @offlineModule
-            </text>
-            <br />
-        }
+        </table>
     </div>
 </body>
 </html>
