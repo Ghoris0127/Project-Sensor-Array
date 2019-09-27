@@ -30,15 +30,6 @@
                 </tr>
             }
         </table>
-        @{
-            var myChart = new System.Web.UI.DataVisualization.Charting.Chart();
-                myChart.AddSeries(
-                    name: "Employee",
-                    xValue: new[] { "Peter", "Andrew", "Julie", "Mary", "Dave" },
-                    yValues: new[] { "2", "6", "4", "5", "3" })
-                .Write();
-        }
-
     </div>
 </body>
 </html>
