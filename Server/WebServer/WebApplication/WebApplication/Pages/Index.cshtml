@@ -20,15 +20,15 @@
                 <th>Coordinates</th>
                 <th>Status</th>
             </tr>
-        @foreach (Module module in Model.modules)
-        {
-        <tr>
-            <td>@module.getModuleID()</td>
-            <td>@module.getDescription()</td>
-            <td>@module.getCoordinates(0) @module.getCoordinates(1) @module.getCoordinates(2)</td>
-            <td>@module.getOnlineStatus()</td>
-        </tr>
-        }
+            @foreach (Module module in Model.modules)
+            {
+                <tr>
+                    <td>@module.getModuleID()</td>
+                    <td>@module.getDescription()</td>
+                    <td>@module.getCoordinates(0) @module.getCoordinates(1) @module.getCoordinates(2)</td>
+                    <td>@module.getOnlineStatus()</td>
+                </tr>
+            }
         </table>
     </div>
 </body>
