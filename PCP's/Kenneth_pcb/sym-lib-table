@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name atmega_328p_dip)(type Legacy)(uri C:/Users/kenne/Documents/atmega_328p_dip.lib)(options "")(descr ""))
+  (lib (name pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb-rescue.lib)(options "")(descr ""))
+)

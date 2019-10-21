@@ -1,0 +1,24 @@
+﻿Artikelnr.,Ordercode,RoHS-compatibel?,Uw art.nr.,Opmerkingen,Hoeveelheid,Artikelnummer fabrikant,Naam fabrikant,Fabrikant / beschrijving,Beschikbaarheid,Prijs per stuk,Artikelprijs,Prijs na korting
+1,1715486,RoHS: YES / FTALATEN: YES,,,2.0,"ATMEGA328P-AU",MICROCHIP,"MICROCHIP  8 Bit MCU, AVR ATmega Family ATmega328 Series Microcontrollers, 20 MHz, 32 KB, 2 KB, 32 Pins, TQFP",18027,1.6300,3.26,,
+2,2896762,RoHS: YES / FTALATEN: YES,,,5.0,"VJ1206A220JXEAC",VISHAY,"VISHAY  SMD Multilayer Ceramic Capacitor, 22 pF, 500 V, 1206 [3216 Metric], ± 5%, C0G / NP0, VJ Series",36995 Beschikbaar tot einde voorraad,0.1620,0.81,,
+3,1650892,RoHS: YES / FTALATEN: YES,,,10.0,"C1206C120J5GACTU",KEMET,"KEMET  SMD Multilayer Ceramic Capacitor, 12 pF, 50 V, 1206 [3216 Metric], ± 5%, C0G / NP0, C Series KEMET",7856,0.1550,1.55,,
+4,1414715,RoHS: YES / FTALATEN: YES,,,10.0,"C1206C104K5RACTU",KEMET,"KEMET  SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R, C Series KEMET",348003,0.0608,0.61,,
+5,2463998,RoHS: YES / FTALATEN: YES,,,5.0,"KP-3216SRC-PRV",KINGBRIGHT,"KINGBRIGHT  LED, Low Power, Red, SMD, 1206 (3216 Metric), 20 mA, 1.85 V, 640 nm",11139,0.1780,0.89,,
+6,2614950,RoHS: YES / FTALATEN: YES,,,2.0,"105017-1001",MOLEX,"MOLEX  USB Connector, Micro USB Type B, USB 2.0, Receptacle, 5 Ways, Surface Mount, Right Angle",11583,1.0700,2.14,,
+7,2901506,RoHS: YES / FTALATEN: YES,,,5.0,"MCP7940MT-I/SN",MICROCHIP,"MICROCHIP  RTC, Alarm RTC, Date Time Format (Day/Date/Month/Year, HH:MM:SS), I2C, 1.8V to 5.5V Supply, SOIC-8",1709,0.4860,2.43,,
+8,2909991,RoHS: YES / FTALATEN: YES,,,2.0,"AT25DF081A-SSH-T",ADESTO TECHNOLOGIES,"ADESTO TECHNOLOGIES  Flash Memory, Standard, Serial NOR, 8Mbit, SPI, WSOIC-8",3764,1.1700,2.34,,
+9,2513288,RoHS: YES / FTALATEN: YES,,,2.0,"MAX11616EEE+",MAXIM INTEGRATED PRODUCTS,"MAXIM INTEGRATED PRODUCTS  Analogue to Digital Converter, Low Power, 12 bit, 94.4 kSPS, Differential, Single Ended, I2C",231,6.4600,12.92,,
+10,2081321,RoHS: YES / FTALATEN: YES,,,2.0,"FT230XS-R",FTDI,"FTDI  USB Interface, USB-UART Converter, USB 2.0, 2.97 V, 5.5 V, SSOP, 16 Pins",3833,1.7800,3.56,,
+11,9762540,RoHS: YES / FTALATEN: YES,,,2.0,"TC1185-3.3VCT713",MICROCHIP,"MICROCHIP  Fixed LDO Voltage Regulator, 2.7V to 6V, 270mV Dropout, 3.3Vout, 150mAout, SOT-23-5",12529,0.3410,0.68,,
+12,2101345,RoHS: YES / FTALATEN: TBA,,,5.0,"ABS06-32.768KHZ-T",ABRACON,"ABRACON  Crystal, 32.768 kHz, SMD, 2mm x 1.2mm, 12.5 pF, 20 ppm, ABS06 Series",40770,1.5200,7.60,,
+13,2308713,RoHS: YES / FTALATEN: TBA,,,2.0,"ABM7-16.000MHZ-D2Y-T",ABRACON,"ABRACON  Crystal, 16 MHz, SMD, 6mm x 3.5mm, 30 ppm, 18 pF, 20 ppm, ABM7 Series",6189,0.8560,1.71,,
+14,9336567,RoHS: Y-EX / FTALATEN: TBA,,,10.0,"MC0125W12061470R",MULTICOMP,"MULTICOMP  SMD Chip Resistor, 1206 [3216 Metric], 470 ohm, MC 1% Series, 200 V, Thick Film, 125 mW",4300,0.1670,1.67,,
+15,1653050,RoHS: NO / FTALATEN: TBA,,,10.0,"CRCW120610K0FKTA",VISHAY,"VISHAY  SMD Chip Resistor, 1206 [3216 Metric], 10 kohm, CRCW Series, 200 V, Thick Film, 250 mW",77473,0.0929,0.93,,
+16,2668641,RoHS: YES / FTALATEN: YES,,,10.0,"CTBP0508/2",CAMDENBOSS,"CAMDENBOSS  Wire-To-Board Terminal Block, 5.08 mm, 2 Ways, 26 AWG, 16 AWG, 1.5 mm², Screw",215,0.4900,4.90,,
+17,2847228,RoHS: YES / FTALATEN: YES,,,5.0,"2213S-50G",MULTICOMP,"MULTICOMP  Board-To-Board Connector, 2.54 mm, 50 Contacts, Header, Through Hole, 2 Rows",9063,0.2950,1.48,,
+
+,,,,,,,Subtotaal,49.48
+,,,,,,,Totaal aantal goederen,49.48
+,,,,,,,Levering,0.00
+,,,,,,,BTW,10.39
+,,,,,,,Totaal,59.87

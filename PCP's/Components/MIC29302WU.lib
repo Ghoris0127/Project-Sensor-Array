@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MIC29302WU
+#
+DEF MIC29302WU IC 0 40 Y Y 1 L N
+F0 "IC" 0 0 50 H I L BNN
+F1 "MIC29302WU" 0 0 50 H I L BNN
+F2 "TO263-5" 0 0 50 H I L BNN
+F3 "MIC29302 Series 3 A 1.24 to 26 V ADJ Output Voltage LDO Regulator - TO-263-5" 0 0 50 H I L BNN
+F4 "Microchip" 0 0 50 H I L BNN
+F5 "Unavailable" 0 0 50 H I L BNN
+F6 "TO-263-5 Microchip" 0 0 50 H I L BNN
+F7 "None" 0 0 50 H I L BNN
+F8 "MIC29302WU" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -100 200 -100 -400 N
+P 2 0 0 10 -100 -400 600 -400 N
+P 2 0 0 10 600 -400 600 200 N
+P 2 0 0 10 600 200 -100 200 N
+T 0 0 100 50 0 0 0 MIC29302WU Normal 0 L B
+X EN 1 -300 -100 200 R 40 40 0 0 B 
+X VIN 2 -300 0 200 R 40 40 0 0 B 
+X GND 3 -300 -200 200 R 40 40 0 0 B 
+X OUT 4 800 0 200 L 40 40 0 0 B 
+X ADJ 5 800 -100 200 L 40 40 0 0 B 
+X TAB 6 -300 -300 200 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
